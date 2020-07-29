@@ -1,2 +1,8 @@
 # mochaChaiTesting
-App for testing. use mocha and chai 
+App for testing. used mocha and chai 
+
+## INSTALL DEPENDENCIES
+npm install
+
+## RUN TESTS
+npm run test
